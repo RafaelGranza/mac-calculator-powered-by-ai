@@ -1,13 +1,16 @@
 # Mac Calculator - Powered by AI 🧮🤡
 
-A faithful copy of the macOS Calculator (basic and scientific modes, resizable window, pill-shaped keys)
-with one small difference: **the math is done by a tiny local LLM.**
+A faithful copy of the macOS Calculator with one small difference:
+
+**the math is done by a tiny local LLM.**
+
+<img width="640" height="360" alt="calculator-poweredbyAI-ezgif com-optimize" src="https://github.com/user-attachments/assets/087f2d76-8ed3-445c-8038-8bf92919eae5" />
 
 It is very confident. It is often wrong.
 
 ```
 12 × 3 + 4          = 16
-quanto é banana + 2? = 2 banana
+banana + 2? = 2 banana
 ```
 
 You can also type **any text** on the keyboard and press `=`. The calculator will answer anyway.
