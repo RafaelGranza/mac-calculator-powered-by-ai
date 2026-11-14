@@ -1,4 +1,4 @@
-# LLM Calculator 🧮🤡
+# Mac Calculator - Powered by AI 🧮🤡
 
 A faithful copy of the macOS Calculator (basic and scientific modes, resizable window, pill-shaped keys)
 with one small difference: **the math is done by a tiny local LLM.**
@@ -17,7 +17,7 @@ You can also type **any text** on the keyboard and press `=`. The calculator wil
 macOS, one command:
 
 ```bash
-git clone https://github.com/YOUR_USER/llm-calculator.git && cd llm-calculator && ./run.sh
+git clone https://github.com/RafaelGranza/mac-calculator-powered-by-ai.git && cd mac-calculator-powered-by-ai && ./run.sh
 ```
 
 `run.sh` takes care of everything:

@@ -215,7 +215,7 @@ class Keypad(tk.Canvas):
 class Calculator:
     def __init__(self, root):
         self.root = root
-        root.title("Calculator")
+        root.title("Mac Calculator - Powered by AI")
         root.configure(bg=WINDOW_BG)
 
         self.ui_font = pick_font("SF Pro Display", "SF Pro", "Helvetica Neue", "Helvetica")
