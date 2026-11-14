@@ -55,3 +55,7 @@ At the top of [`calculator.py`](calculator.py):
 - ~1.5 GB free RAM for the model
 
 The model is Google's Gemma, used under the [Gemma Terms of Use](https://ai.google.dev/gemma/terms).
+
+## License
+
+[MIT](LICENSE). The Gemma model itself is covered by the Gemma Terms of Use above.
